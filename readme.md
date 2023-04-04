@@ -2,7 +2,7 @@
 
 Proje Symfony 6 ile geliştirilmiştir ve veritabanı olarak MySQL Kullanılmıştır.
 
-###SETUP:
+### SETUP:
 - `composer install`
 - `php bin/console doctrine:database:create (Veritabanı oluşturur.)`
 - `php bin/console doctrine:schema:update --force (Entitye göre tablo ver sutünları oluşturur.)`
