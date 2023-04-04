@@ -9,6 +9,7 @@ Proje Symfony 6 ile geliştirilmiştir ve veritabanı olarak MySQL Kullanılmı�
 
 ### Routes:
 -`/update-table` excel içerisinde ki kayıtları veritabanında ki tabloya yazar. (GET Request)
+
 -`/search` type ve searchString verileri gönderilerek arama yapar (POST Request)
 
 
